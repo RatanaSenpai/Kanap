@@ -29,7 +29,7 @@ On m’a confié une nouvelle mission, implémenter le site Kanap de manière dy
 
 ## Demo
 
-Insert gif or link to demo
+En cours...
 
 
 ## Screenshots
