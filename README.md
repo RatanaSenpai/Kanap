@@ -8,6 +8,10 @@ Il s'agit du projet 5 du parcours de la formation OpenClassRooms qui va permettr
 - Valider des données issues de sources externes
 - Interagir avec un web service avec JavaScript
 
+## Objectif à la fin projet:
+- Apprendre à programmer en Javascript
+- Déboguer l'interface d'un site internet
+- Ecrire du Javascript pour le web
 
 ## Kanap
 
